@@ -1,6 +1,6 @@
 ## Midnight Pink Theme
 
-![Midnight Pink Theme](https://raw.githubusercontent.com/hiraganq/midnight-pink/refs/heads/main/images/preview.png)
+![Midnight Pink Theme](https://github.com/hiraganq/midnight-pink/blob/main/images/preview.png?raw=true)
 
 ## Installation
 
