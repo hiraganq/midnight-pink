@@ -3,6 +3,7 @@
   "displayName": "Midnight Pink",
   "description": "A dark pink theme",
   "version": "0.0.1",
+  "publisher": "hiraganq",
   "repository": {
     "type": "git",
     "url": "https://github.com/hiraganq/midnight-pink"
