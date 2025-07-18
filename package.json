@@ -1,0 +1,26 @@
+{
+  "name": "midnight-pink",
+  "displayName": "Midnight Pink",
+  "description": "A dark pink theme",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hiraganq/midnight-pink"
+  },
+  "icon": "images/icon.jpg",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Midnight Pink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midnight Pink-color-theme.json"
+      }
+    ]
+  }
+}
